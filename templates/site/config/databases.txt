@@ -1,0 +1,6 @@
+
+Databases for $FULL_NAME
+
+You can request PostgreSQL and MySQL databases by emailing webmaster@aspc.pomona.edu with your site name and desired database name.
+--------------------------------------
+

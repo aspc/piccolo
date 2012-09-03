@@ -1,0 +1,4 @@
+@reboot $SITE_ROOT/bin/httpd.sh start
+@reboot $SITE_ROOT/bin/php.sh start
+@monthly /usr/sbin/logrotate $SITE_ROOT/config/logrotate.conf -s $SITE_ROOT/run/logrotate.state
+

@@ -1,0 +1,12 @@
+Hello $FULL_NAME,
+
+Your account on the ASPC server has been granted access to administer $SITE_SHORTNAME. The site folder is symlinked at ~/$SITE_SHORTNAME . (If you were already logged in via SSH, you will have to log out and log in again for the new permissions to take effect.)
+
+For database information, consult ~/$SITE_SHORTNAME/config/database_credentials.txt and ~/$SITE_SHORTNAME/config/databases.txt
+
+More documentation is available at http://peninsula.pomona.edu/docs/
+
+If you have any questions, you can contact webmaster@aspc.pomona.edu
+
+Your humble servant,
+The ASPC System

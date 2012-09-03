@@ -1,0 +1,15 @@
+Hello $FULL_NAME,
+
+An account has been created for you on the Peninsula server. From within the Claremont Colleges, you may connect to Peninsula using SSH (see http://peninsula.pomona.edu/docs/#connecting for details).
+
+Username: $USERNAME
+Server: peninsula.pomona.edu
+
+Your password has been set to $INITIAL_PASSWORD. When you first log in, you will be required to change it.
+
+When your account is given access to administer a site, you will receive another email with more information.
+
+If you have any questions, you can contact webmaster@aspc.pomona.edu
+
+Your humble servant,
+The ASPC System
