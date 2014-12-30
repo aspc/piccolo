@@ -123,14 +123,6 @@ template_copy(
     {}
 )
 
-# Copy ssl settings to install dir
-
-template_copy(
-    os.path.join(INSTALL_ROOT, "ssl_settings.conf"),
-    "/etc/piccolo/ssl_settings.conf",
-    {}
-)
-
 # Copy index.html to new default dir
 
 shutil.copyfile(
